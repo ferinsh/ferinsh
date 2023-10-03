@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 ningal entha ivde cheyyinne
