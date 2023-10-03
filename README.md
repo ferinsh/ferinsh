@@ -11,3 +11,6 @@ ningal entha ivde cheyyinne
 - 💬 Ask me about parayoola
 - 📫 How to reach me: ariyuvenki vilichaal mathi
 -->
+
+<h1>SUGHAMALLE</h1>
+<h2>fndsjfklsngjlsdngkjrsnlkgnrsjlknjlrsnjlr</h2>
