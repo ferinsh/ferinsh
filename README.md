@@ -13,7 +13,7 @@ ningal entha ivde cheyyinne
 -->
 
 <h1>Ferin Sharaf</h1>
-<p>Welcome to my Github. Hope you enjoy your stay.<br>You can find me in the following places in case you want to talk with me. </p>
+<p>Welcome to my Github. Hope you enjoy your stay. Why don't you have a look through my projects while you're here.<br>You can find me in the following places in case you want to talk with me. </p>
 <ul>
   <li>Insta - @ferinsh</li>
   <li>Gmail - ferinsharaf23@gmail.com</li>
