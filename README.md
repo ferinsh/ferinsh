@@ -12,5 +12,10 @@ ningal entha ivde cheyyinne
 - 📫 How to reach me: ariyuvenki vilichaal mathi
 -->
 
-<h1>SUGHAMALLE</h1>
-<h2>fndsjfklsngjlsdngkjrsnlkgnrsjlknjlrsnjlr</h2>
+<h1>Ferin Sharaf</h1>
+<h2>Welcome to my Github. Hope you enjoy your stay</h2>
+<h2>You can find me in the following places in case you want to talk with me.</h2>
+<ul>
+  <li>Insta</li>
+  <li>Gmail</li>
+</ul>
